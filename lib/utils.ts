@@ -67,7 +67,7 @@ export const discounts = [0, 0, 0.05, 0.1, 0.2];
 
 export const fee = [300, 400, 500, 600, 700, 800];
 export const addonFee = 100;
-export const DDFees = 25;
+export const DDFees = 35;
 
 export const registrationFees = 199;
 export const refundableDeposit = 499;
